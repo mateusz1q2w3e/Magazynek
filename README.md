@@ -1,2 +1,5 @@
-# Magazynek
-Jestem Polakiem, nie warto to czytać
+﻿# Magazynek
+Nie warto czytać
+*Dzien*
+**dobry**
+# nie
